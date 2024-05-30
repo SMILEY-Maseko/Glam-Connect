@@ -258,7 +258,7 @@
 		}
 
 			ul.icons li {
-				display: ;
+				display: inline-block;
 				line-height: 1em;
 				padding-left: 0.5em;
 			}
