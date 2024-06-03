@@ -13,7 +13,7 @@
 	}
 
 	body, input, select, textarea {
-		color: #555555;
+		color: #0a0a0a;
 		font-family: 'Raleway', sans-serif;
 		font-size: 13pt;
 		font-weight: 300;
@@ -172,7 +172,7 @@
 	}
 
 	.formerize-placeholder {
-		color: rgba(85, 85, 85, 0.5) !important;
+		color: rgba(37, 37, 37, 0.5) !important;
 	}
 
 /* Image */
@@ -330,7 +330,7 @@
 			padding-bottom: 0.50em;
 			font-size: 1.1em;
 			font-weight: 700;
-			color: #404040;
+			color: #272727;
 		}
 
 		ul.style .fa {
@@ -408,18 +408,18 @@
 		-o-transition: background-color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out;
-		background: #3ac984;
+		background: linear-gradient(135deg, #71b7e6, #9b59b6);
 		border-radius: 40px;
 		border: 0;
-		color: white;
+		color: rgb(7, 7, 7);
 		cursor: pointer;
 		display: inline-block;
-		padding: 0.80em 2em;
+		padding: 0.70em 2em;
 		text-align: center;
 		text-decoration: none;
 		font-size: 1.4em;
-		font-weight: 600;
-		min-width: 10em;
+		font-weight: 400;
+		min-width: 5em;
 	}
 
 		input[type="submit"]:hover,
@@ -450,9 +450,10 @@
 	}
 
 	.wrapper.style2 {
-		background: #ececec;
+		background: #cccccc;
 		padding: 6em 0;
 		text-align: center;
+		color: #0a0a0a;
 	}
 
 	.wrapper.style3 {
